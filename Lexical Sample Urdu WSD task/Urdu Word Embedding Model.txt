@@ -1,0 +1,1 @@
+This study used Pre-trainind Urdu Word2Vec model taht can be accessed using link https://github.com/samarh/urduvec
