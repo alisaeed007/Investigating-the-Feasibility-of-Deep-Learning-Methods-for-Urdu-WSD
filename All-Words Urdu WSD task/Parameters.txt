@@ -1,0 +1,14 @@
+Languge for WSD: Urdu
+Classification: Multi- class classification
+Task Type: ALL Words
+
+Data Division: 66% for training and 33% for testing
+Total number of hidden layers: 1,2, 3, 7, 10, 20
+Total techniques applied: RNN, LSTM, GRU, Bi-directional LSTM
+Number of nodes at each hidden layer:100
+Number of training epochs:05
+batch size: 32
+validation split:20%
+Classifier of output layer: Softmax
+Evaluation Metric: Accuracy and F1-Measure
+
